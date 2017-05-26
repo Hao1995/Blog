@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+# Blog
+Use React Router + Redux Form to make simple blog app
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+![Blog](https://github.com/Hao1995/blog/blob/master/blog.gif "blog")
 
-There are two methods for getting started with this repo.
+1. react-redux
+2. Axios
+3. Lodash
+4. redux-promise
+5. react-router
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+Web
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
+  > git clone git@github.com:Hao1995/blog.git
+  > npm start
 ```
